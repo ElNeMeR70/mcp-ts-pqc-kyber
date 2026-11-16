@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-pqc-kyber",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_pqc_kyber",
+      "description": "Execute pqc-kyber MCP tool"
+    }
+  ]
+}
